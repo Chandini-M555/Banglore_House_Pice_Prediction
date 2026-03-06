@@ -19,3 +19,5 @@ pip install -r requirements.txt
 
 Live Application 
 ```
+https://banglorehousepiceprediction-6ksxntxdcx5cfsqdkhmgox.streamlit.app/
+```
